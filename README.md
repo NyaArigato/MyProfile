@@ -25,3 +25,9 @@
 * PowerWolf
 * Iron Mainden
 * Judas Priest
+
+# Banda de rock
+
+* Pink Floyd
+* Beatles
+* Elvis Presley
